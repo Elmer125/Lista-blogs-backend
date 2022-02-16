@@ -1,0 +1,30 @@
+{
+  "name": "lista-blogs-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elmer125/Lista-blogs-backend.git"
+  },
+  "author": "Mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elmer125/Lista-blogs-backend/issues"
+  },
+  "homepage": "https://github.com/Elmer125/Lista-blogs-backend#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
